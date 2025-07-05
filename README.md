@@ -36,24 +36,6 @@ A terminal-based Bank Management System (BMS) built in C, designed to simulate b
 - Terminal UI: Light screen clearing and formatting for better UX
 
 ---
-
-## 💻 Project Structure
-BankSystem/
-├── include/ # Header files
-│ ├── account.h
-│ ├── admin.h
-│ ├── client.h
-│ └── config.h # Admin credentials
-├── private/ # Private includes (sensitive credentials)
-│ └── private.config.h
-├── src/ # Source code
-│ ├── main.c
-│ ├── account.c
-│ ├── admin.c
-│ └── client.c
-├── database/ # Persistent storage
-│ └── accounts.txt
-
 ## Compile the Project
 - gcc src/main.c src/account.c src/admin.c src/client.c -Iinclude -o bank_system.exe
 ## Run the Program
