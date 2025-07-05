@@ -1,4 +1,5 @@
-# 🏦 Bank Management System (BMS) in C
+# 🏦 Bank Management System (BMS) in 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="c logo"  />
 
 A terminal-based Bank Management System (BMS) built in C, designed to simulate basic banking operations for clients and administrators. This project demonstrates the implementation of account creation, transactions, access control, and data persistence using file I/O in the C language.
 
